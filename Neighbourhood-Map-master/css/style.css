@@ -1,0 +1,47 @@
+#map
+{
+  height: 94vh;
+  width: 100%;
+}
+
+#linky
+{
+  font-family: 'Café Françoise';
+  font-size: 17px;
+  padding-left: 32px;
+  font-weight: 200;
+}
+
+#input1
+{
+ margin: 10px 10px 10px 10px;
+ font-size: 15px;
+ margin-left: 10px;
+}
+
+.brand-logo
+{
+  font-family: 'Peignot';
+  font-size: 20px;
+}
+
+.email,.name
+{
+  font-family: Helvetica;
+  font-size: 12px;
+}
+
+.background
+{
+  opacity: .5;
+}
+h2
+{
+  background-color: #25df7d;
+  border-radius: 5px;
+
+}
+.bg
+{
+  background-color: #25df7d;
+}
